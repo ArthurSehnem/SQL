@@ -1,3 +1,2 @@
 # SQL
 
-teste do readme
