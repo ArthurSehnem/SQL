@@ -8,3 +8,19 @@ Bem-vindo ao meu repositório de estudo de SQL! Este projeto contém um plano de
 
 ## 🗂 Estrutura do Repositório
 
+
+- **/Questions**: Contém arquivos `.md` para cada uma das 50 questões.
+  - `question_1.md`: Descrição e solução da primeira questão.
+  - `question_2.md`: Descrição e solução da segunda questão.
+  - ...
+
+- **README.md**: Este arquivo, que fornece uma visão geral do repositório e do plano de estudo.
+
+---
+
+## 💻 Como Usar
+
+1. **Clone o Repositório**:
+   ```bash
+   git clone https://github.com/seuusuario/nome-do-repositorio.git
+   cd nome-do-repositorio
